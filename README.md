@@ -1,6 +1,6 @@
 # Calculator.cpp
 
-#OUTPUT
+# OUTPUT
 
 ![Screenshot 2024-10-29 233527](https://github.com/user-attachments/assets/8c709f5a-986b-4297-a182-1649cb94e90d)
 ![Screenshot 2024-10-29 233627](https://github.com/user-attachments/assets/961c66b8-5972-423d-a132-e3e136703217)
