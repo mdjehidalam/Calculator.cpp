@@ -23,6 +23,13 @@
     char choice;
    // cout<<"Enter you choice(+,-,*,/): "<<flush;
    cin>>choice;
+     if(choice=='0' ||choice=='1'||choice=='2'||choice=='3'|| choice=='4' ||choice=='5' ||choice=='6' ||choice=='7' ||choice=='8' || choice=='9')
+    {
+        calculation= calculation*10 +(choice-'0');
+        system("cls");
+        cout<<"ans:"<<calculation<<endl;
+        goto level;
+    }
     switch(choice) {
         case '+' : 
             cin>>n2;
